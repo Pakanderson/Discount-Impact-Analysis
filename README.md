@@ -1,7 +1,7 @@
-# -Discount-Strategy-Impact-Analysis
+## -Discount-Strategy-Impact-Analysis
 Data analysis and presentation as part of a Data Science Bootcamp at WBS Coding School
 
-## Eniac Discount and Revenue Dilemma 
+# Eniac Discount and Revenue Dilemma 
 
 The project aims to provide a data-driven answer to the ongoing debate at Eniac:
  **Is it beneficial to discount products?**
