@@ -34,8 +34,9 @@ The Board of Investors is concerned about the "high volume, low revenue" trend a
 
 ## 🚀 Recommendations for Data Improvement
 To further settle the debate, we recommend implementing:
-1. **Remove all discounts:** > Monitor if discounted customers convert into full-price repeat buyers.
+1. **Remove all discounts:** >Monitor if discounted customers convert into full-price repeat buyers.
 2. **Newsletter 5% discount for new customers**.
 3. **Real-time data on market pricing to validate discount necessity**.
 4. **Developed as practicals at WBS Data Science Bootcamp**.
+   
 """
