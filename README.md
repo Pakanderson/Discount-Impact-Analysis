@@ -1,8 +1,7 @@
 # -Discount-Strategy-Impact-Analysis
 Data analysis and presentation as part of a Data Science Bootcamp at WBS Coding School
 
-def generate_readme():
-    content = """# Eniac Discount and Revenue Dilema 
+## Eniac Discount and Revenue Dilemma 
 
 The project aims to provide a data-driven answer to the ongoing debate at Eniac:
  **Is it beneficial to discount products?**
@@ -38,4 +37,4 @@ To further settle the debate, we recommend implementing:
 2. **Newsletter 5% discount for new customers**.
 3. **Real-time data on market pricing to validate discount necessity**.
 4. **Developed as practicals at WBS Data Science Bootcamp**
-     """
+   
