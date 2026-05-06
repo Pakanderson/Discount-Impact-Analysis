@@ -37,5 +37,5 @@ To further settle the debate, we recommend implementing:
 2. **Newsletter 5% discount for new customers**.
 3. **Real-time data on market pricing to validate discount necessity**.
  ---
-> **Developed as practicals at WBS Data Science Bootcamp**
+> **Case Study Project work - WBS Data Science Bootcamp**
    
